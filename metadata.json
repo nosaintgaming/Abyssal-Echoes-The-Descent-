@@ -1,0 +1,6 @@
+{
+  "name": "Abyssal Echoes: The Descent",
+  "description": "Retro sci-fi psychological horror survival game featuring scaling enemy density, escalating hazard frequency, and deep tactical choices across the complete trilogy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
